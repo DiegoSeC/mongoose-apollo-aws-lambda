@@ -14,7 +14,7 @@ A very basic template for Mongoose, Apollo, GraphQL, AWS Lambda and Serverless
 
 ## Instructions
 
-- Create a new ```.env``` file on the root folder and copy the content from `.env.example` and change the values
+- Create a new ```.env``` file in the root folder and copy the content from `.env.example` and change the values
 - Change the values of ```serverless.yml``` with your configuration
 - Run ```yarn install```
 
