@@ -1,5 +1,5 @@
 module.exports = {
   service: {
-    name: 'Gap',
+    name: '<APP NAME>',
   },
 };
